@@ -1,5 +1,3 @@
-# automate-downloads
-```markdown
 # File Sorting Script
 
 Organize your files effortlessly with the File Sorting Script. This Python script automatically categorizes your files based on their extensions and moves them to appropriate folders. Keep your folders tidy and find your files easily!
@@ -29,4 +27,3 @@ Organize your files effortlessly with the File Sorting Script. This Python scrip
 ---
 
 Take control of your file organization with the File Sorting Script! Customize categories, run the script, and enjoy a clutter-free file system.
-
